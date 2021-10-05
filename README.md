@@ -12,4 +12,6 @@ Just a curious Software Engineer
 
 ![image](https://github-readme-stats.vercel.app/api?username=tuannh982&count_private=trueshow_icons=true)
 
+<!---
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=tuannh982&hide=html&layout=compact)
+-->
