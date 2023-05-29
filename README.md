@@ -1,16 +1,20 @@
-### Hi there 👋
+Hi, tuannh982 here 👋
+===
 
-<!--
-**tuannh982/tuannh982** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Just a curious Software Engineer
 
-Here are some ideas to get you started:
+## 🌏 About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on payment technology
+- 🌱 I love to talk about backend development, software system design, distributed system, etc.
+- 💬 Ask me about anything
+- 📫 Contact me on [GMail](mailto:tuannh982@gmail.com), or [Linkedin](https://www.linkedin.com/in/tuan-nguyen-huu-719abb155/)
+
+![image](https://github-readme-stats.vercel.app/api?username=tuannh982&count_private=trueshow_icons=true)
+
+<!---
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=tuannh982&hide=html&layout=compact)
 -->
+
+> *What I cannot create, I do not understand*
+> -- <cite>Richard Feynman</cite>
