@@ -1,20 +1,19 @@
-Hi, tuannh982 here 👋
-===
+## Hi 👋
+- I'm tuannh982
+- I like building things
 
-Just a curious Software Engineer
+## 🌱 Projects
 
-## 🌏 About me
+- [Durable workflow/orchestration](https://github.com/tuannh982/durable-task-demo)
+- [HNSW vector search, written in Scala](https://github.com/tuannh982/hnsw-scala)
+- [Comprehensive guide to implement your own query planner/optimizer](https://github.com/tuannh982/query-planner-guide)
+- [Toy WebGL2 graph plotter](https://github.com/tuannh982/webgl2-graph-plotter)
+- [Simple, cloned Docker](https://github.com/tuannh982/experiment_lwc)
+- [Embedded persistent queue, written in Java](https://github.com/tuannh982/ladder)
+- [Embedded K-V database, written in Java](https://github.com/tuannh982/phantom)
+- [Simple RAFT implementation](https://github.com/tuannh982/sraft)
 
-- 🔭 I’m currently working on payment technology
-- 🌱 I love to talk about backend development, software system design, distributed system, etc.
-- 💬 Ask me about anything
-- 📫 Contact me on [GMail](mailto:tuannh982@gmail.com), or [Linkedin](https://www.linkedin.com/in/tuan-nguyen-huu-719abb155/)
+## 📫 Find me on
 
-![image](https://github-readme-stats.vercel.app/api?username=tuannh982&count_private=trueshow_icons=true)
-
-<!---
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=tuannh982&hide=html&layout=compact)
--->
-
-> *What I cannot create, I do not understand*
-> -- <cite>Richard Feynman</cite>
+- 📧 Email: [tuannh982@gmail.com](mailto:tuannh982@gmail.com)
+- 😃 Linkedin: [Tuan Nguyen Huu](https://www.linkedin.com/in/tuan-nguyen-huu-719abb155/)
