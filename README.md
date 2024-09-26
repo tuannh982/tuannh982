@@ -17,4 +17,3 @@
 ## 📫 Find me on
 
 - 📧 Email: [tuannh982@gmail.com](mailto:tuannh982@gmail.com)
-- 😃 Linkedin: [Tuan Nguyen Huu](https://www.linkedin.com/in/tuan-nguyen-huu-719abb155/)
