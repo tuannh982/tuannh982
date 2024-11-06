@@ -3,7 +3,7 @@
 - I like building things
 
 ## 🌱 Projects
-
+- [Simple Workflow Framework written in Go](https://github.com/tuannh982/simple-workflow-go)
 - [Scobra - Cobra-like argument parser in Scala](https://github.com/tuannh982/scobra)
 - [Percolator distributed transaction algorithm](https://github.com/tuannh982/percolator)
 - [Durable workflow/orchestration](https://github.com/tuannh982/durable-task-demo)
