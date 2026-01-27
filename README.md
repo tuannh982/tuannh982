@@ -18,7 +18,7 @@
 
 ## 🔨 Tools
 - [How many days until...?](https://tuannh982.github.io/days-until/)
-- [Stay in rhythm - a metronome](https://github.com/tuannh982/metronome)
+- [Stay in rhythm - a metronome](https://tuannh982.github.io/metronome/)
 
 ## 📫 Find me on
 
