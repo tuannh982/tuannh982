@@ -3,6 +3,7 @@
 - I like building things
 
 ## 🌱 Projects
+- [P2P File Sharing](https://github.com/tuannh982/p2pfilesharing)
 - [Parser Combinators in Golang](https://github.com/tuannh982/go-parser-combinators)
 - [Simple Workflow Framework written in Go](https://github.com/tuannh982/simple-workflow-go)
 - [Scobra - Cobra-like argument parser in Scala](https://github.com/tuannh982/scobra)
