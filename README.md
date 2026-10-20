@@ -27,7 +27,6 @@
 
 ## AI Plugins
 - [Technical Design](https://github.com/tuannh982/techdesign)
-- [Deep Research](https://github.com/tuannh982/deep-research)
 
 ## 📫 Find me on
 
